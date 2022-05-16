@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 2d4a343315771a049bdd4ad2ec7754f3
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 8918197000540110476
+    second: char_armature|char_armature|char_armature|1_T-pose|char_armature|1_T-pose
+  - first:
+      74: -5158903230782305295
+    second: char_armature|char_armature|char_armature|2_run|char_armature|2_run
+  - first:
+      74: -3983635569338379676
+    second: char_armature|char_armature|char_armature|3_idle|char_armature|3_idle
+  - first:
+      74: 3770675439044164525
+    second: char_armature|char_armature|char_armature|4_roll|char_armature|4_roll
+  - first:
+      74: -6890078722171831530
+    second: char_armature|char_armature|char_armature|5_roll|char_armature|5_roll
+  - first:
+      74: -645612222493279137
+    second: char_armature|char_armature|char_armature|6_death|char_armature|6_death
+  - first:
+      74: 3533842847601995927
+    second: char_armature|char_armature|char_armature|7_Hammer_swing_hard_af|char_armatur
+  - first:
+      74: 2082614194597657561
+    second: char_armature|char_armature|char_armature|7_Hammer_swing_mid|char_armature|7_
+  - first:
+      74: -2093272874228397914
+    second: char_armature|char_armature|char_armature|7_Hammer_swing_new|char_armature|7_
+  - first:
+      74: -1798540634799257193
+    second: char_armature|char_armature|char_armature|8_bazooka_shoot|char_armature|8_baz
+  - first:
+      74: 8942701598246816760
+    second: char_armature|char_armature|char_armature|9_bazooka_pickup|char_armature|9_ba
+  - first:
+      74: 7910348286075604783
+    second: char_armature|char_armature|char_armature|Bazooka_Shoot_fixed|char_armature|B
+  - first:
+      74: 3425007844038783258
+    second: char_armature|char_armature|char_armature|bazooka_shoot|char_armature|bazooka
+  - first:
+      74: -604482141332631107
+    second: char_armature|char_armature|char_armature|get_up|char_armature|get_up
+  - first:
+      74: -6023933502135651195
+    second: char_armature|char_armature|char_armature|idle_hammer_new|char_armature|idle_
+  - first:
+      74: -5467465774956194324
+    second: char_armature|char_armature|char_armature|knock_down|char_armature|knock_down
+  - first:
+      74: -2512944936611882346
+    second: char_armature|char_armature|char_armature|rage_scream|char_armature|rage_scre
+  - first:
+      74: -6348028042518556211
+    second: char_armature|1_T-pose
+  - first:
+      74: 7401985523453005997
+    second: char_armature|2_walk
+  - first:
+      74: -7742068635688540660
+    second: char_armature|3_idle
+  - first:
+      74: 7032709976346058752
+    second: char_armature|4_hook_channel
+  - first:
+      74: 717307401117962905
+    second: char_armature|4_hook_idle
+  - first:
+      74: -3288424841166197711
+    second: char_armature|4_hook_pull
+  - first:
+      74: -4112892743449995627
+    second: char_armature|5_hooked_drag
+  - first:
+      74: 253211844473021751
+    second: char_armature|5_hooked_impact
+  - first:
+      74: 1301431184965479715
+    second: char_armature|Dance
+  - first:
+      74: -3706775730470961762
+    second: char_armature|Defeat
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: warrior_mat.001
+    second: {fileID: 2100000, guid: 8f4a11cf342ea3148aa59fda7068110a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

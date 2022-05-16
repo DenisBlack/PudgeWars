@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37172e113aee2c3428bffad33296c999, type: 3}
+  m_Name: "Level_10 \u0415\u0423\u0415\u0427\u0430"
+  m_EditorClassIdentifier: 
+  Enemies:
+  - Character: {fileID: 6679573028689608150, guid: 3a237467078c28343948b962fb35558f,
+      type: 3}
+    Position: {x: 10, y: 3.615422, z: 13.61345}
+    Rotation: {x: 0, y: 179.99971, z: 0}
+  - Character: {fileID: 6679573028689608150, guid: 3a237467078c28343948b962fb35558f,
+      type: 3}
+    Position: {x: 6.37, y: 3.615422, z: 13.61345}
+    Rotation: {x: 0, y: 179.99971, z: 0}
+  EnemiesSniper:
+  - Character: {fileID: 6679573028689608150, guid: c2064a5328b4d41429105749614e305b,
+      type: 3}
+    Position: {x: -3.85, y: 3.615422, z: 13.61345}
+    Rotation: {x: 0, y: 179.9997, z: 0}
+  Allies: []
+  Player:
+    Character: {fileID: 1101800627119780167, guid: 3f35cc0ebb9f0d142a79182bb842ffa3,
+      type: 3}
+    Position: {x: 2.7800002, y: 2.5, z: -0.1}
+    Rotation: {x: 0, y: 0, z: 0}
+  LevelTimer: 2000

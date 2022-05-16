@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 1cbcd76aad749904d952a32436903c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1333019203517404288
+    second: ad_button
+  - first:
+      213: -2371164954491319932
+    second: coin_icon
+  - first:
+      213: 6539941030752940564
+    second: button_spray_selected
+  - first:
+      213: -9209539567530498956
+    second: color_inactive
+  - first:
+      213: -7209737168988622153
+    second: color_selected
+  - first:
+      213: -1394513035671052662
+    second: currency_bg
+  - first:
+      213: -3471841974114845995
+    second: star_disabled
+  - first:
+      213: 127007124171181757
+    second: prize_bg
+  - first:
+      213: -860777409397359836
+    second: chests_bg
+  - first:
+      213: -8436128602286183879
+    second: star_active
+  - first:
+      213: 9120470660681249500
+    second: key_active
+  - first:
+      213: -397276197688848486
+    second: prizetext_bg
+  - first:
+      213: 1334791491597054927
+    second: key_disabled
+  - first:
+      213: 8678865257056595294
+    second: Checkmark_icon
+  - first:
+      213: 6843616085661804345
+    second: spray_icon
+  - first:
+      213: -4223745319231158561
+    second: trimmer_icon
+  - first:
+      213: 2733556975176754918
+    second: stage_bg
+  - first:
+      213: -5605756647568061458
+    second: stage_outline
+  - first:
+      213: -3006009388397312761
+    second: order_window
+  - first:
+      213: -2853179214302611511
+    second: green_button
+  - first:
+      213: 9049372454323702553
+    second: item_selected_bg
+  - first:
+      213: 4918254919092019441
+    second: collection_bg
+  - first:
+      213: 1520084358503991854
+    second: collection_disabled_bg
+  - first:
+      213: -53225890335203368
+    second: gray_button
+  - first:
+      213: 7638251548433433774
+    second: purple_button
+  - first:
+      213: -3047611659091247354
+    second: question_mark_icon
+  - first:
+      213: 1433625374607246608
+    second: bowtie_icon
+  - first:
+      213: -6885329690534604296
+    second: orange_button
+  - first:
+      213: -6916866820120821536
+    second: cloth_icon
+  - first:
+      213: -613025027808609889
+    second: head_icon
+  - first:
+      213: 2842119667206849266
+    second: new_icon
+  - first:
+      213: -2334532060202151240
+    second: blue_button
+  - first:
+      213: 9009630423366833161
+    second: cyan_button
+  - first:
+      213: -575149042319647251
+    second: shop_icon
+  - first:
+      213: 327665664886287781
+    second: sofa_icon
+  - first:
+      213: 3102381856020432074
+    second: UI_atlas01_35
+  - first:
+      213: 8280730828933783367
+    second: UI_atlas01_36
+  - first:
+      213: 8596669604634159993
+    second: settings_bg
+  - first:
+      213: -707030363497651539
+    second: UI_atlasCamera
+  - first:
+      213: -3983920186155830822
+    second: UI_atlas01_39
+  - first:
+      213: 3346429241352384836
+    second: UI_atlas01_40
+  - first:
+      213: 2246987322561423471
+    second: UI_atlas01_41
+  - first:
+      213: 5606754335465077168
+    second: UI_atlas01_42
+  - first:
+      213: 8808449420305092771
+    second: UI_atlas01_43
+  - first:
+      213: 8138948424230921643
+    second: UI_atlas01_44
+  - first:
+      213: 3157659914494549178
+    second: UI_atlas01_45
+  - first:
+      213: 2584817725572222999
+    second: UI_atlas01_46
+  - first:
+      213: 8274995526046919200
+    second: UI_atlas01_47
+  - first:
+      213: -585135177259861262
+    second: progressbar_bg
+  - first:
+      213: -7764717567419410662
+    second: UI_atlas01_49
+  - first:
+      213: 3983192950483994325
+    second: UI_atlas01_50
+  - first:
+      213: 6075847510695925093
+    second: UI_atlas01_51
+  - first:
+      213: -2715818291590030002
+    second: UI_atlas01_52
+  - first:
+      213: 9071021632732578186
+    second: UI_atlas01_53
+  - first:
+      213: -5268318768868234414
+    second: UI_atlas01_54
+  - first:
+      213: 2340297851791193717
+    second: volume_off
+  - first:
+      213: -7272507646082019969
+    second: UI_atlas01_56
+  - first:
+      213: -4974812584195649284
+    second: volume_on
+  - first:
+      213: 4027451948513440864
+    second: UI_atlas01_58
+  - first:
+      213: -3924068179726074909
+    second: vibrate_off
+  - first:
+      213: 7870099923260888407
+    second: UI_atlas01_60
+  - first:
+      213: -3986558885955305140
+    second: vibrate_on
+  - first:
+      213: -1413684511127996091
+    second: UI_atlas01_62
+  - first:
+      213: -1192057140995412709
+    second: UI_atlas01_63
+  - first:
+      213: -1552081291749575546
+    second: UI_atlas01_64
+  - first:
+      213: -6957440325375903558
+    second: UI_atlas01_65
+  - first:
+      213: -7114177752199866838
+    second: UI_atlas01_66
+  - first:
+      213: -2213606979189315449
+    second: UI_atlas01_67
+  - first:
+      213: 4529485891951412918
+    second: UI_atlas01_68
+  - first:
+      213: 8112552741562601161
+    second: UI_atlas01_69
+  - first:
+      213: -701021233536453952
+    second: UI_atlas01_70
+  - first:
+      213: -2969701545250090915
+    second: UI_atlas01_71
+  - first:
+      213: 6377159546044198704
+    second: UI_atlas01_72
+  - first:
+      213: -4707008891710070550
+    second: UI_atlas01_73
+  - first:
+      213: 1075113145543926367
+    second: UI_atlas01_74
+  - first:
+      213: 7513192326094801182
+    second: UI_atlas01_75
+  - first:
+      213: 903453949293068424
+    second: UI_atlas01_76
+  - first:
+      213: 4410565279579301835
+    second: UI_atlas01_77
+  - first:
+      213: -2937491424945724515
+    second: progressbar_fill
+  - first:
+      213: -5735391607936164320
+    second: UI_atlas01_79
+  - first:
+      213: 5141207487961440333
+    second: UI_atlas01_80
+  - first:
+      213: -1022288536649116398
+    second: UI_atlas01_81
+  - first:
+      213: 6015987861113068093
+    second: panel_bg
+  - first:
+      213: 2386806159074270966
+    second: UI_atlas01_83
+  - first:
+      213: 5805884449691018856
+    second: UI_atlas01_84
+  - first:
+      213: -4169863404922573710
+    second: button_next
+  - first:
+      213: -7799035717767355069
+    second: UI_atlas01_86
+  - first:
+      213: -4964542725860974310
+    second: button_settings
+  - first:
+      213: -8986678650813682510
+    second: UI_atlas01_88
+  - first:
+      213: 6724118468343229805
+    second: button_retry
+  - first:
+      213: -2001669555622628172
+    second: UI_atlas01_90
+  - first:
+      213: 8801376609162206436
+    second: button_trimmer_inactive
+  - first:
+      213: 192054967237949453
+    second: UI_atlas01_92
+  - first:
+      213: -1910670295290422051
+    second: cell_bg
+  - first:
+      213: 6539941030752940564
+    second: cross_icon
+  - first:
+      213: -6510730563204415546
+    second: volume_on
+  - first:
+      213: 384538959060088680
+    second: icon_bg
+  - first:
+      213: 5260285649287910799
+    second: cross_icon
+  - first:
+      213: -3864675162411971776
+    second: next_icon
+  - first:
+      213: -3482042966519925738
+    second: UI_atlas01_3
+  - first:
+      213: 8180094862696236041
+    second: restart_icon
+  - first:
+      213: -2830273297770407315
+    second: settings_icon
+  - first:
+      213: -4745582607753326799
+    second: UI_atlas01_6
+  - first:
+      213: 2253976670058028246
+    second: UI_atlas01_8
+  - first:
+      213: -2702770148303134793
+    second: vibrate_on
+  - first:
+      213: 2414162387166947336
+    second: UI_atlas01_10
+  - first:
+      213: 8602291504745582465
+    second: lock_icon
+  - first:
+      213: -3540065927661464171
+    second: play_icon
+  - first:
+      213: 4268687172506017669
+    second: progressbar_bg
+  - first:
+      213: -8649724937804800113
+    second: currency_bg
+  - first:
+      213: 900748376650346484
+    second: star_active
+  - first:
+      213: 5003628833407903664
+    second: star_disabled
+  - first:
+      213: -2342990844451309439
+    second: key_active
+  - first:
+      213: -9174571621081066893
+    second: key_disabled
+  - first:
+      213: 4544395226133602732
+    second: coin_icon
+  - first:
+      213: 7082752339400702484
+    second: progressbar_fill
+  - first:
+      213: 6929798124062269226
+    second: UI_atlas01_21
+  - first:
+      213: -9107341303249660564
+    second: green_button
+  - first:
+      213: -3714188863912547475
+    second: orange_button
+  - first:
+      213: 2206199731166185260
+    second: purple_button
+  - first:
+      213: 1621066422784678236
+    second: gray_button
+  - first:
+      213: -4685005448204546456
+    second: blue_button
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cross_icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8514e68de9400940800000000000000
+      internalID: 5260285649287910799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: next_icon
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 508
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bc82c6a6aed5ac0800000000000000
+      internalID: -3864675162411971776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restart_icon
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 498
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904c10800f8858170800000000000000
+      internalID: 8180094862696236041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_icon
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 508
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1f1d5e69d8b8d0800000000000000
+      internalID: -2830273297770407315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume_on
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffbef4c0d35a5a0800000000000000
+      internalID: -6510730563204415546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vibrate_on
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9cd8bed4dd7ad0800000000000000
+      internalID: -2702770148303134793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_icon
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 514
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f88b2fb8a716770800000000000000
+      internalID: 8602291504745582465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_icon
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 508
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595564c7bc82fdec0800000000000000
+      internalID: -3540065927661464171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progressbar_bg
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 130, y: 125, z: 130, w: 125}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdc7eed5c6d3b30800000000000000
+      internalID: 4268687172506017669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: currency_bg
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 260
+        width: 294
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 102, y: 115, z: 102, w: 115}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9e4d4ff006f780800000000000000
+      internalID: -8649724937804800113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_active
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 252
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe04e40e9108c00800000000000000
+      internalID: 900748376650346484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_disabled
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 255
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b72e23e9e5707540800000000000000
+      internalID: 5003628833407903664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_active
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188bc7c9d360c7fd0800000000000000
+      internalID: -2342990844451309439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_disabled
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 261
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372551738bf5da080800000000000000
+      internalID: -9174571621081066893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_icon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 253
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1aca4816fe01f30800000000000000
+      internalID: 4544395226133602732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progressbar_fill
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 136, y: 119, z: 136, w: 119}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41abb060abdfa4260800000000000000
+      internalID: 7082752339400702484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_atlas01_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 6
+        width: 324
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 105, y: 0, z: 105, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f56ed9da69b2060800000000000000
+      internalID: 6929798124062269226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_button
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 108, y: 108, z: 108, w: 108}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c659f8366593c9180800000000000000
+      internalID: -9107341303249660564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_button
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 108, y: 108, z: 108, w: 108}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be7c928ec847cc0800000000000000
+      internalID: -3714188863912547475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_button
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 108, y: 108, z: 108, w: 108}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2709bf67fefd9e10800000000000000
+      internalID: 2206199731166185260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gray_button
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 108, y: 108, z: 108, w: 108}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d46f925f2f7610800000000000000
+      internalID: 1621066422784678236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_button
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 108, y: 108, z: 108, w: 108}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e8ff8fd548bfeb0800000000000000
+      internalID: -4685005448204546456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 88, y: 88, z: 88, w: 88}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86733195528265500800000000000000
+      internalID: 384538959060088680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 50196c1db72733046a59e935df5292df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

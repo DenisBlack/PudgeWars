@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: fc3399ff4a6f7184098573b1ce9d5f3b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -6348028042518556211
+    second: char_armature|1_T-pose
+  - first:
+      74: 2002303942490594848
+    second: char_armature|2_run
+  - first:
+      74: -7742068635688540660
+    second: char_armature|3_idle
+  - first:
+      74: 7741246571230634207
+    second: char_armature|4_roll
+  - first:
+      74: -6648476647194119645
+    second: char_armature|5_roll
+  - first:
+      74: -6158827299078072256
+    second: char_armature|6_death
+  - first:
+      74: -811230795920226777
+    second: char_armature|7_Hammer_swing_hard_af
+  - first:
+      74: -8811547487674462431
+    second: char_armature|7_Hammer_swing_mid
+  - first:
+      74: -3814156865132272738
+    second: char_armature|7_Hammer_swing_new
+  - first:
+      74: 6269510332350004612
+    second: char_armature|8_bazooka_shoot
+  - first:
+      74: -8830373544017991078
+    second: char_armature|9_bazooka_pickup
+  - first:
+      74: -695040542963144873
+    second: char_armature|bazooka_shoot
+  - first:
+      74: -7879053267741665860
+    second: char_armature|Bazooka_Shoot_fixed
+  - first:
+      74: 5777582387119142636
+    second: char_armature|get_up
+  - first:
+      74: -6073129606817935278
+    second: char_armature|idle_hammer_new
+  - first:
+      74: 3428571973586438085
+    second: char_armature|knock_down
+  - first:
+      74: 545363154142886042
+    second: char_armature|rage_scream
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
